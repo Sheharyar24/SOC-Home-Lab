@@ -36,7 +36,8 @@ The SOC Detection Lab project establishes a controlled, enterprise-style environ
 
 *Ref 1: SOC Home Lab Architecture Diagram*
 
-> 📸 **Screenshot Placeholder**
+> <img width="654" height="710" alt="image" src="https://github.com/user-attachments/assets/22b03a39-6834-4fac-8e1e-bb0b109c34d1" />
+
 > Diagram showing Splunk SIEM receiving logs from Windows and Ubuntu endpoints, with Kali Linux acting as the attacker VM.
 
 ---
