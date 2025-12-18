@@ -44,9 +44,15 @@ The SOC Detection Lab project establishes a controlled, enterprise-style environ
 
 ## Steps & Implementation
 
-### 1. Environment Setup
+### 1. Network Configuration
 
-Configured an isolated virtual network consisting of Splunk SIEM, Windows endpoint, Ubuntu endpoint, and Kali Linux attacker.
+All virtual machines are connected to a NAT-Network "Home-Lab-Network".
+
+Lab Addressing:
+- Splunk SIEM: 192.168.10.15
+- Windows 10 Endpoint: 192.168.10.4
+- Ubuntu Endpoint: 192.168.10.5
+- Kali Attacker: 192.168.10.7
 
 *Ref 2: Virtual Machine Network Setup*
 
