@@ -56,8 +56,9 @@ Lab Addressing:
 
 *Ref 2: Virtual Machine Network Setup*
 
-> 📸 **Screenshot Placeholder**
-> Screenshot showing VM network configuration and host-only/internal networking.
+> <img width="1282" height="509" alt="image" src="https://github.com/user-attachments/assets/12fb606b-c1c9-47c0-9933-730a625b1379" />
+
+> Screenshot showing VM network configuration.
 
 ---
 
