@@ -68,8 +68,9 @@ Installed and configured Splunk Enterprise on Ubuntu to receive logs from multip
 
 *Ref 3: Splunk Web Interface*
 
-> 📸 **Screenshot Placeholder**
-> Splunk dashboard showing active data ingestion and indexed events.
+> <img width="1022" height="715" alt="image" src="https://github.com/user-attachments/assets/386597ec-a685-44e3-80ff-690da81c18af" />
+
+> Splunk dashboard showing active data from Windows and Ubuntu Target Machines.
 
 ---
 
