@@ -54,7 +54,7 @@ To demonstrate a full range of detection capabilities, I simulated a multi-stage
 *Ref 2: Splunk Detection of T1059.001*
 > <img width="1030" height="734" alt="image" src="https://github.com/user-attachments/assets/7c0c50d6-f1e8-4aa2-a070-8b98ca835c86" />
 > <img width="1252" height="623" alt="image" src="https://github.com/user-attachments/assets/f8b8cb28-63dd-469f-829f-869a9e6c5195" />
-[See more in this file](https://github.com/Sheharyar24/SOC-Home-Lab/blob/main/Scenarios/T1059.001_PowerShell_Execution.md)
+[See more here](https://github.com/Sheharyar24/SOC-Home-Lab/blob/main/Scenarios/T1059.001_PowerShell_Execution.md)
 
 
 ---
@@ -67,18 +67,21 @@ To demonstrate a full range of detection capabilities, I simulated a multi-stage
 *Ref 3: Splunk Detection of T1003.001*
 > <img width="1025" height="666" alt="image" src="https://github.com/user-attachments/assets/c0d6c6da-9cf0-4d56-9cc9-1e13d71d1f39" />
 > <img width="1020" height="222" alt="image" src="https://github.com/user-attachments/assets/13880082-3485-4345-99ab-5e7d69ee5eaf" />
-
+[See more here](https://github.com/Sheharyar24/SOC-Home-Lab/blob/main/Scenarios/T1003.001_OS_Credential_Dumping.md)
 
 
 ---
 
 ### Scenario 3: Inhibit System Recovery (T1490)
 * **Attack:** Executed Atomic Red Team test **T1490** to simulate ransomware attack preparation
-* **Detection:** Monitored Sysmon Event ID 1 and Windows Security Event ID 4688 for command-line arguments containing delete shadows or resize shadowstorage.
+* **Detection:** Monitored Sysmon Event ID 1 and command-line arguments containing delete shadows or resize shadowstorage.
 * **Result:** Created a critical alert to detect "Pre-Ransomware Activity." This provides a vital early warning before data encryption begins.
 
 *Ref 4: Splunk Detection of T1490*
-> [Screenshot of Splunk Search Result]
+> <img width="1022" height="730" alt="image" src="https://github.com/user-attachments/assets/26306e55-ff42-4472-9593-bc1fb6ee7429" />
+> <img width="1025" height="728" alt="image" src="https://github.com/user-attachments/assets/d022fefb-87e9-42f9-9423-38ad8da8e45e" />
+[See more here](https://github.com/Sheharyar24/SOC-Home-Lab/blob/main/Scenarios/T1490_Inhibit_System_Recovery.md)
+
 
 ---
 
