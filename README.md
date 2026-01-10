@@ -52,7 +52,9 @@ To demonstrate a full range of detection capabilities, I simulated a multi-stage
 * **Result:** Created a Splunk Alert that triggers when PowerShell is spawned by an unusual parent process or contains obfuscated command strings.
 
 *Ref 2: Splunk Detection of T1059.001*
-> [Screenshot of Splunk Search Result]
+> <img width="1252" height="623" alt="image" src="https://github.com/user-attachments/assets/f8b8cb28-63dd-469f-829f-869a9e6c5195" />
+[See more in this file](https://github.com/Sheharyar24/SOC-Home-Lab/blob/main/Scenarios/T1059.001_PowerShell_Execution.md)
+
 
 ---
 
