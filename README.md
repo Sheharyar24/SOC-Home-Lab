@@ -64,7 +64,10 @@ To demonstrate a full range of detection capabilities, I simulated a multi-stage
 * **Result:** Successfully triggered a high-severity alert identifying the source process (e.g., procdump.exe or a suspicious PowerShell script) attempting to harvest credentials.
 
 *Ref 3: Splunk Detection of T1003.001*
-> [Screenshot of Splunk Search Result]
+> <img width="1025" height="666" alt="image" src="https://github.com/user-attachments/assets/c0d6c6da-9cf0-4d56-9cc9-1e13d71d1f39" />
+> <img width="1020" height="222" alt="image" src="https://github.com/user-attachments/assets/13880082-3485-4345-99ab-5e7d69ee5eaf" />
+
+
 
 ---
 
